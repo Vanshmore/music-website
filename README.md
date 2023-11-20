@@ -31,7 +31,7 @@ Key Features:
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/AntonioErdeljac/next13-spotify.git
+git clone https://github.com/Vanshmore/music-website.git
 ```
 
 ### Install packages
@@ -40,7 +40,7 @@ git clone https://github.com/AntonioErdeljac/next13-spotify.git
 npm i
 ```
 
-### Setup .env file
+## Setup .env file
 
 
 ```js
